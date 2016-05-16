@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/ISMAELMARTINEZ/gridfs-storage-engine",
   "dependencies": {
+    "crypto": "0.0.3",
     "gridfs-stream": "^1.1.1",
     "mongodb": "^2.0.45",
     "underscore": "^1.8.3"
